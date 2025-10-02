@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS-3178C6?logo=CSS&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Animation-3776AB?logo=Animation&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Microsoft Office-3776AB?logo=Microsoft Office&logoColor=white&style=for-the-badge" />
   
   <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
