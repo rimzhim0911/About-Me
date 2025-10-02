@@ -42,21 +42,13 @@
   <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   
-  <!-- Cloud & Infra -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
-  
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4169E1?logo=MySQL&logoColor=white&style=for-the-badge" />
   
   <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
   
   <!-- Data Science / Automation -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white&style=for-the-badge" />
