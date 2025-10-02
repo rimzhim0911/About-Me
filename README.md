@@ -70,15 +70,4 @@
 
 ---
 
-# ✨ Fun Vibes
-
-<p align="center">
-  <span style="color:#64B5F6">H</span><span style="color:#81C784">e</span><span style="color:#FFD54F">y</span> <span style="color:#64B5F6">t</span><span style="color:#81C784">h</span><span style="color:#FFD54F">e</span><span style="color:#64B5F6">r</span><span style="color:#81C784">e</span><span style="color:#FFD54F">!</span> <span style="color:#64B5F6">I</span><span style="color:#81C784">'</span><span style="color:#FFD54F">m</span> <span style="color:#64B5F6">R</span><span style="color:#81C784">i</span><span style="color:#FFD54F">m</span><span style="color:#64B5F6">z</span><span style="color:#81C784">h</span><span style="color:#FFD54F">i</span><span style="color:#64B5F6">m</span> 👋
-</p>
-
-<p align="center">
-  <span style="color:#9C27B0; font-weight: bold;">Coder</span> 💻 
-  <span style="color:#E91E63; font-weight: bold;">Melophile</span> 🎵 
-  <span style="color:#42A5F5; font-weight: bold;">Cricket Fan</span> 🏏
-</p>
 
