@@ -3,12 +3,12 @@
   
   <!-- Typing Intro -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=600&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rimzhim+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=600&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rimzhim+%F0%9F%91%8B" />
   </a>
 <br>
 <!-- Static Tagline as SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1&pause=100000000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Coder+💻+Melophile+🎵" alt="Static Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1&pause=100000000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Coder+💻+Melophile+🎵+Cricket Fan+🏏" alt="Static Tagline" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Rimzhimt&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
