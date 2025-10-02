@@ -23,8 +23,8 @@
   <tr>
     <td style="vertical-align: top; width: 70%;">
       
-- 🧠 I enjoy building with <b>React.js</b>, <b>JavaScript</b>  
-- ☁️ Tinkering with <b>AWS</b> + <b>Terraform</b>  
+- 🧠 I enjoy building with <b>JavaScript</b>, <b>React.js</b>  
+- ☁️ Connect to me for <b>UI/UX Design</b> + <b>Websites</b>  
 - 🤝 Open to collaborating on <b>Full Stack projects</b>  
 
     </td>
@@ -38,9 +38,8 @@
 <br>
 <p>
   <!-- Languages & Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-3178C6?logo=CSS&logoColor=white&style=for-the-badge" />
   
   <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
